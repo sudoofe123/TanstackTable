@@ -57,7 +57,7 @@ function App() {
   if (loading) {
     return (
       <div
-        style={{ textAlign: 'center', marginTop: '15rem', fontSize: '1.5rem' }}
+        style={{ textAlign: 'center', marginTop: '24rem', fontSize: '2.5rem' }}
       >
         Loading data...
       </div>
